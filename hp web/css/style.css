@@ -1,0 +1,14 @@
+@import url();
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+header{
+    position: fixed;
+    left: 0%;
+    right: 0%;
+    width: 100%;
+    background: grey;
+}
